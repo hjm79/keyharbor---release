@@ -1,12 +1,12 @@
 <img width="128" height="128" alt="KeyHarbor icon" src="https://vesslo.top/keyharbor-icon.png" />
 
-# KeyHarbor - Official macOS License Vault Releases
+# KeyHarbor - Official macOS License Key Manager & Vault Releases
 
 **Official product page**: [vesslo.top/keyharbor](https://vesslo.top/keyharbor)
 
 This repository hosts KeyHarbor release downloads. The official product page, pricing, and support are maintained on [vesslo.top/keyharbor](https://vesslo.top/keyharbor).
 
-**KeyHarbor** is a native macOS license vault by Vesslo for storing software keys, serial numbers, activation codes, subscription details, renewal reminders, notes, and receipt attachments in a local encrypted vault.
+**KeyHarbor** is a native macOS license key manager and encrypted license vault by Vesslo for storing software keys, serial numbers, activation codes, subscription details, renewal reminders, notes, and receipt attachments in one local app.
 
 > **Requires**: macOS 14.6+
 
@@ -23,8 +23,8 @@ This repository hosts KeyHarbor release downloads. The official product page, pr
 
 ## Features
 
-- **Local encrypted vault** — keep license records on your Mac.
-- **License key and serial management** — store software keys, activation codes, serial numbers, and purchase details.
+- **License key manager for Mac** — keep software keys, activation codes, serial numbers, and purchase details organized.
+- **Local encrypted vault** — keep license records safely on your Mac.
 - **Renewal reminders** — track subscriptions, renewal dates, and costs.
 - **Touch ID unlock** — unlock quickly on supported Macs.
 - **Tags, notes, and attachments** — keep receipts, invoices, and contextual notes with each license record.
